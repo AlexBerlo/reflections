@@ -13,3 +13,7 @@ By adding only the modified files by that logical change, from the working direc
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When are you adding new / experimental features to the project but want to keep the old one intact. Branches would help by making it easier to navigate from one branch to another instead of just navigating through commits in the master branch.
+
+How do the diagrams help you visualize the branch structure?
+
+Shows where the branches start and what new features have been added to each branch ( through commit history). Very useful when you have to merge.
