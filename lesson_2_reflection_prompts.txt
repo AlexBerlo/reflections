@@ -17,3 +17,7 @@ When are you adding new / experimental features to the project but want to keep 
 How do the diagrams help you visualize the branch structure?
 
 Shows where the branches start and what new features have been added to each branch ( through commit history). Very useful when you have to merge.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is incorporating the changes of the auxiliary branch into the master branch. The representation is accurate since that is how the history would look for a file with multiple branches.
