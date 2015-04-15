@@ -21,3 +21,7 @@ Shows where the branches start and what new features have been added to each bra
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result is incorporating the changes of the auxiliary branch into the master branch. The representation is accurate since that is how the history would look for a file with multiple branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+When doing automatic merging git will not let you do the merging if you have conflicts in your files and you must solve them before.
